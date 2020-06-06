@@ -23,7 +23,7 @@ And the VRPTW means each customer limit a time windows[Begin server time, end se
 5.	按路线、时间线画图等形式直观的展示了解决方案。
 ## 数据集
 我们采用经典的Solomon数据集作为输入："http://w.cba.neu.edu/~msolomon/problems.htm "
-我们在R101、C101、RC101数据集上进行了实验：
+我们在R101、C101、RC101数据集上进行了实验，可见效果非常好：
 ![R101](img/R101.jpg "R101数据集前50个订单")
 
 ![C101](img/C101.jpg "C101数据集前50个订单")
